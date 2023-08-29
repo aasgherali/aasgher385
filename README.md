@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @aasgherali
-- 👀 I’m interested in optimal control applied to continous system using numerical optimization algorithms. 
-- 🌱 I’m currently learning about the gradient descent algorthims especially the use of direct or indirect methods to solving optimal control problems. 
-- 💞️ I’m looking to collaborate on projects related to numerical optimization and mathematical modeling (deterministic models especially PDEs). 
-- 📫 You can reach me at my email address @asgher_dot_ali_at_lums_dot_edu_pk.
+- 👋 Greetings, I go by the handle @aasgherali.
+- 👀 My primary interest lies in the application of optimal control to continuous systems, utilizing numerical optimization algorithms.
+- 🌱 Presently, my focus is on delving into gradient descent algorithms, particularly their application in addressing optimal control problems through direct or indirect methods.
+- 💞️ I am enthusiastic about collaborative ventures involving numerical optimization and mathematical modeling, with a specific emphasis on deterministic models in the form of partial differential equations (PDEs).
+- 📫 Feel free to get in touch with me via email at asgher_dot_ali_at_lums_dot_edu_dot_pk.
 
 <!---
-aasgherali/aasgherali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+aasgherali/aasgherali stands out as a ✨ special ✨ repository since its `README.md` file showcases on my GitHub profile.
+For a sneak peek at your modifications, the Preview link is at your disposal.
 --->
